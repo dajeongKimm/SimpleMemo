@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleMemo</string>
+    <string name="btn_post">Post</string>
+    <string name="btn_save">Save</string>
+
+
+</resources>
